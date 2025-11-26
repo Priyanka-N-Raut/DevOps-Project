@@ -37,4 +37,3 @@ Then open http://localhost:8080 in your browser.
 
 ---
 
-Created by GitHub Copilot assistant — let me know if you want more details (badges, license, contribution guidelines).
